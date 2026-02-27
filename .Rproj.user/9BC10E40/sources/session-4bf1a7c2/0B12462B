@@ -1,11 +1,11 @@
 {
     "id": "0B12462B",
-    "path": null,
-    "project_path": null,
+    "path": "~/PROJECTS/forR/forRglmmtmp/easy_test.R",
+    "project_path": "easy_test.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3888884094",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1772165092704.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 7142820508308894319,
-    "encoding": "",
+    "lastKnownWriteTime": 1772166962,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1772166095502,
+    "last_content_update": 1772166962883,
     "read_only": false,
     "read_only_alternatives": []
 }
