@@ -3,7 +3,7 @@
 ## **Salamanders Analysis: 60.1% Zero Counts**
 
 **Zero-inflated model beats standard Poisson:**
-
+** AIC m1: 2215.7 m2: 1908.5 **
 
 ## **Model Diagnostics - Perfect Fit**
 ![DHARMa Residuals](results/dharmaplot.png)
