@@ -1,8 +1,0 @@
-install.packages("glmmTMB")
-library(devtools)
-devtools::install_github("glmmTMB/glmmTMB")
-library(devtools)
-devtools::install_github("glmmTMB/glmmTMB")
-install.packages("devtools")
-devtools::install_github("glmmTMB/glmmTMB")
-install.packages("glmmTMB", repos = "https://glmmTMB.github.io/glmmTMB/repos/")
